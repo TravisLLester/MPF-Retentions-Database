@@ -1,0 +1,2 @@
+INSERT INTO contracttypes VALUES ('1', 'Reenlistment');
+INSERT INTO contracttypes VALUES ('2', 'Extension');

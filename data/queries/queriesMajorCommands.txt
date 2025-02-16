@@ -1,0 +1,8 @@
+INSERT INTO major_commands VALUES ('1', 'Air Force Global Strike Command ', 'AFGSC');
+INSERT INTO major_commands VALUES ('2', 'Air Force Material Command', 'AFMC');
+INSERT INTO major_commands VALUES ('3', 'Air Education and Training Command', 'AETC');
+INSERT INTO major_commands VALUES ('4', 'Air Combat Command', 'ACC');
+INSERT INTO major_commands VALUES ('5', 'Air Force Research Lab', 'AFRL');
+INSERT INTO major_commands VALUES ('6', 'Air Force Inspection Agency', 'AFIA');
+INSERT INTO major_commands VALUES ('7', 'New Mexico Air National Guard', 'NMANG');
+INSERT INTO major_commands VALUES ('8', 'Defense Threat Reduction Agency', 'DTRA');

@@ -1,0 +1,6 @@
+INSERT INTO Wings VALUES ('1', '377th Air Base Wing', '1', '377ABW.css@us.af.mil', '505-846-1122', '1', '377 ABW');
+INSERT INTO Wings VALUES ('2', '58th Special Operations Wing', '2', '58SOW.css@us.af.mil', '505-846-1123', '3', '58 SOW');
+INSERT INTO Wings VALUES ('3', '150th Special Operations Wing', '3', '150SOW.css@us.af.mil', '505-846-2231', '3', '150 SOW');
+INSERT INTO Wings VALUES ('4', '21st Ordnance Wing', '4', '21OrdW.css@us.af.mil', '505-846-2217', '2', '21 OrdW');
+INSERT INTO Wings VALUES ('5', 'AFRL Wing', '5', 'AFRLW.css@us.af.mil', '505-853-1122', '2', 'AFRLW');
+INSERT INTO Wings VALUES ('6', 'DTRA Wing', '6', 'DTRAW.css@us.af.mil', '505-853-2211', '8', 'DTRAW');

@@ -1,0 +1,12 @@
+INSERT INTO contractstatus VALUES ('1', 'Pending');
+INSERT INTO contractstatus VALUES ('2', 'Drafted');
+INSERT INTO contractstatus VALUES ('3', 'NCO Review Completed');
+INSERT INTO contractstatus VALUES ('4', 'AF1411 to Member');
+INSERT INTO contractstatus VALUES ('5', 'AF1411 Received');
+INSERT INTO contractstatus VALUES ('6', 'PRDA/MILPDS/DJMS Updated');
+INSERT INTO contractstatus VALUES ('7', 'Pending DJMS 3-day Review');
+INSERT INTO contractstatus VALUES ('8', 'Completed');
+INSERT INTO contractstatus VALUES ('9', 'AF901 to Member');
+INSERT INTO contractstatus VALUES ('10', 'AF901 Received');
+INSERT INTO contractstatus VALUES ('11', 'DD4 to Member');
+INSERT INTO contractstatus VALUES ('12', 'DD4 Received');
