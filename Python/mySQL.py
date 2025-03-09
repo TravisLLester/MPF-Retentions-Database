@@ -22,7 +22,8 @@ except mysql.connector.Error as err:
 query = """
 SELECT c.last_name, c.first_name, s.Squadron_Name, s.CSS_Email 
 FROM customer_information c
-JOIN squadrons s ON s.squadron_ID = c.squadron_ID;
+JOIN squadrons s ON s.squadron_ID = c.squadron_ID
+LIMIT 10;
 """
 
 try:
